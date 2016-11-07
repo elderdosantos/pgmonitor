@@ -1,0 +1,15 @@
+{
+  "name": "pgmonitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "start"
+  },
+  "author": "Elder Pereira <elderdosantos@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^6.0.2"
+  }
+}
