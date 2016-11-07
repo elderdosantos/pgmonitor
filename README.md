@@ -3,7 +3,8 @@
 
 ## Pra quê?
 
-Fiz essa paradinha pra ajudar nas analises rapidas de sistemas. Ver uso das tabelas e indices e fazer analise de execução.
+Fiz essa paradinha pra ajudar nas analises rapidas de bancos postgres.
+Ver uso das tabelas e indices e fazer analise de execução.
 
 É daqueles projetos que a gente diz que vai melhorar um dia. Só não sabemos quando.
 
