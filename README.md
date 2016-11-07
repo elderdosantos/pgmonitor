@@ -8,4 +8,4 @@ Ver uso das tabelas e indices e fazer analise de execução.
 
 É daqueles projetos que a gente diz que vai melhorar um dia. Só não sabemos quando.
 
-Curtiu? Usa aê
+Curioso? Usa aê
